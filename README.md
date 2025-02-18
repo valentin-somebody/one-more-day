@@ -1,6 +1,6 @@
 # One More Day - A Daily Commitment to Life  
 
-This repository is a simple yet powerful commitment: every day we overcome dark thoughts, we log it here, until they no longer hold power over us!
+**This repository is a simple yet powerful commitment: every day we overcome dark thoughts, we log it here, until they no longer hold power over us!**
 Each commit represents a small victory, a conscious choice to keep going.
 
 If you're in a similar situation, you are welcome to join. Fork this repo, create your own log, and track your progress.
